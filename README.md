@@ -1,7 +1,5 @@
 # cannyEdgeDetector-Python
-use the code by typing this on terminal:
-
- python cannycode.py --image /magepath/image.jpg
+useage: python cannycode.py --image /magepath/image.jpg
 
 A implementation of canny edge detection algorithm in python using numpy and opencv.
 
@@ -31,3 +29,5 @@ The other parameters that can also be considered to have an impact is the gaussi
  
 Applications:There are various applications of edge detection.
 Structural and Shape analysis, Boundary detection, Edge Descriptor(As a feature), Image segmentation and many more.
+
+Paper: https://pdfs.semanticscholar.org/55e6/6333402df1a75664260501522800cf3d26b9.pdf 
